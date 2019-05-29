@@ -1,0 +1,90 @@
+
+/* Body of the content */
+
+body  {
+
+    background-color:grey;
+    background-image: url(../images/escheresque/escheresque_ste/escheresque_ste.png);
+    color:white;
+}
+
+h1 {
+    background-color: grey;
+    margin-left: 440px;
+    font-size: 28px;
+    width: 294px;
+    height: 115px;
+    font-size: 
+
+}
+
+/* Navigation bar */
+
+.navbar {
+    background-image: url(../images/headers/olivegreentoblack.jpg);
+    position: sticky;
+    height:110px;
+}
+
+/* Shiba logo on the upper left hand corner */
+
+#shibaIcon {
+
+    height:auto;
+    max-width:12%;
+    margin-left:5%;
+
+}
+/* navigation bar */
+.navbar {
+    word-spacing: 20%;
+    margin-bottom:20px;
+}
+
+.contentArea {
+   
+    
+    
+
+}
+/* My name on the top */
+.nicholasLoperena {
+   
+}
+
+/* added a content area */
+.container {
+    background-color: grey;
+    width:960px;
+    height: auto;
+    margin-top: 30px;
+    
+
+}
+
+
+/* class for columns  */
+.col-4 {
+ width:auto;
+ height: auto;
+
+}
+
+/* My personal pic */ 
+#me {
+    max-width: 180px;
+    height:auto;
+    border:2px;
+    border-color:#2b8000;
+    border-style:solid;
+    position:relative;
+    margin:20px;
+    scale
+
+}
+
+#weirdColumn {
+    
+
+
+}
