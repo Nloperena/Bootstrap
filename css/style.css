@@ -60,6 +60,11 @@ h1 {
 
 }
 
+.card-shiba {
+    width:100px;
+    height:100px;
+
+}
 
 /* class for columns  */
 div.col-4 {
