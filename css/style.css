@@ -40,6 +40,15 @@ h1 {
     
 
 }
+
+/* text for the portfolio shiba cards */
+
+.shiba-text {
+    z-index:1;
+    color:black;
+
+}
+
 /* My name on the top */
 .nicholasLoperena {
     margin: 30px;
