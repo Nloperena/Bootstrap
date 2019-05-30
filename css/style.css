@@ -10,11 +10,12 @@ body  {
 
 h1 {
     background-color: grey;
-    margin-left: 440px;
+    margin-left: 275px;
     font-size: 28px;
     width: 294px;
-    height: 115px;
-    font-size: 
+    height: 40px;
+    font-size: 22px;
+   
 
 }
 
@@ -26,15 +27,7 @@ h1 {
     height:110px;
 }
 
-/* Shiba logo on the upper left hand corner */
 
-#shibaIcon {
-
-    height:auto;
-    max-width:12%;
-    margin-left:5%;
-
-}
 /* navigation bar */
 .navbar {
     word-spacing: 20%;
@@ -49,13 +42,18 @@ h1 {
 }
 /* My name on the top */
 .nicholasLoperena {
-   
+    margin: 30px;
+    margin-top: 28px;
+    padding-bottom: 110px;
+    margin-left: 450px;
+    text-align:center;
+    font-size:20px;
 }
 
 /* added a content area */
 .container {
     background-color: grey;
-    width:960px;
+    width:100%;
     height: auto;
     margin-top: 30px;
     
@@ -64,27 +62,46 @@ h1 {
 
 
 /* class for columns  */
-.col-4 {
- width:auto;
- height: auto;
+div.col-4 {
+ margin-top:43px;
 
+}
+
+/* Shiba logo on the upper left hand corner */
+
+#shibaIcon {
+    margin-top: 38px;
+    top: 89px;
+    height: 35px;
+    width: 35px;
+    margin-left: -121%;
 }
 
 /* My personal pic */ 
 #me {
-    max-width: 180px;
-    height:auto;
-    border:2px;
-    border-color:#2b8000;
-    border-style:solid;
-    position:relative;
-    margin:20px;
-    scale
-
+    max-width: 245px;
+    height: 210px;
+    border: 2px;
+    border-color: #2b8000;
+    border-style: solid;
+    width: 210px;
+    margin: 30px;
+    top: -25px;
+    position: relative;
+    margin-right: 30px;
 }
 
-#weirdColumn {
-    
+#contentContainer {
+    width:960px;
+    height: 600px;
+}
 
+#contactContainer {
+    width:960px;
+    height: 355px;
+}
 
+#nameProperties {
+    margin: -32px;
+    font-size: 25px;
 }
